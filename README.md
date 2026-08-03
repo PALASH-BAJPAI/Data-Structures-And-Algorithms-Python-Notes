@@ -21,7 +21,7 @@
 
 - 📖 Easy-to-understand DSA notes
 - 🐍 Python implementations
-- 💡 Optimized solutions with explanations
+- 💡 Optimized solutions with detailed explanations
 - 🎯 Interview-focused problems
 - ⚡ Time & Space Complexity
 - 📝 Clean and readable code
