@@ -76,7 +76,6 @@
 ## 🤝 Contributions
 
 Found a better solution or spotted an issue?
-
 Feel free to open an **Issue** or submit a **Pull Request**.
 
 ---
