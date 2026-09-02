@@ -40,7 +40,7 @@
 | 🌐 Graphs | 🔀 Sliding Window |
 | #️⃣ Hashing | 🧩 Two Pointers |
 | 🏔️ Heap | 🧮 Prefix Sum |
-| 🌳 Trie | ⚡ Bit Manipulation |
+| ⚡ Bit Manipulation |
 
 > More topics are continuously being added.
 
